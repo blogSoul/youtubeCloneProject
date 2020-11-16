@@ -1,15 +1,17 @@
-## 😄#0 Introduction😄
+# ✈ #0 Introduction ✈
 
+## __Full Stack__ 으로 할 수 있는 것은?
 
-풀스택으로 할 수 있는 것은?
 독창적이고 모든 걸 다 할 수 있습니다.
 
-프론트 엔드 기술:
-react native
-electron-js
+## Frontend 기술:
 
-일렉트론 앱 : html css js으로만 이루어져 있습니다. 
+React-native : 모바일 App을 만들 때 사용됩니다.  
 
-websites : 컨텐츠를 소비하기 위한 것, Ex)뉴스
+ElectronJS : html css js으로만 이루어져 있습니다. A tool to build Multi Platform Desktop Apps with Web Languages  
 
-webapps : 아주 많은 기능을 포함하고 있는 것
+## Websites vs Webapps
+
+websites : 컨텐츠를 소비하기 위한 것, Ex) CNN news  
+
+webapps : 아주 많은 기능을 포함하고 있는 것 Ex) Slack  

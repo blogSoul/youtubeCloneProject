@@ -1,0 +1,22 @@
+{
+  "name": "wetube",
+  "version": "1.0.0",
+  "description": "Cloning Youtube project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blogSoul/YoutubeClone_Challenge_Nomadcoder.git"
+  },
+  "author": "soul min wook",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blogSoul/YoutubeClone_Challenge_Nomadcoder/issues"
+  },
+  "homepage": "https://github.com/blogSoul/YoutubeClone_Challenge_Nomadcoder#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

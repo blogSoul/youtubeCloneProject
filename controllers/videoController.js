@@ -20,7 +20,7 @@ export const postUpload = (req, res) => {
             description
         }
         // todo: Upload and save video
-    }= req;
+    } = req;
     res.redirect(routes.videoDetail(32333));
 }
 export const videoDetail = (req, res) => res.render("videoDetail", { pageTitle: "videoDetail"});

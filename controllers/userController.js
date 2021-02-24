@@ -12,7 +12,14 @@ export const postJoin = async (req, res) => {
         res.stauts(400);
         res.render("join", { pageTitle: "Join"});
     } else {
-        const user = await User.create({});
+        try {
+            const user = await User({
+                name, email
+            });
+            await User.register(user, password);
+        } catch(error){
+            console.log(error);
+        }
         res.redirect(routes.home);
     }
 };

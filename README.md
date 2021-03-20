@@ -1,7 +1,6 @@
-# ✈ YoutubeClone_Challenge_Nomadcoder ✈
+# ✈ Youtube Clone Project ✈
 
 this is Youtube clone coding project   
-
 
 ## Pages:
 
